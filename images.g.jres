@@ -1,0 +1,42 @@
+{
+    "image1": {
+        "data": "hwQYABgAAADw////DwAAAAAAAAAAHxFE9A8AAAAAAP8A8BFEFPIAAAAA8PwA8ET09CIPAAAAz/IA8ERE9CIPAAD/TPIAT0RPFCIPAP9ERPIAT/T8+yL//89ERPIAT/RVGyJPxM9ERPLwQfy8RP9ETPT/L/LwEURPRETETPRPz/8fEURERCLCRExE9AAf/0RERCJCRExExP/wAP9EJCJCxERERPQAAABPJCLCLERERPIA//9PRCIiIsJMRPLwT/9MRCQiIsz/T/L/RPJERCIiIsL8z/JPJP9EJPIiIiL88Pz///9EIvL/IiL8AP8A/08kIv8A/yLCD/DwT0Qi8g8AAC8i/AD/RCT//wAAAPAvwg////8PAAAAAADwIg8AAAAAAAAAAAAA/w8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Dragrogor"
+    },
+    "image2": {
+        "data": "hwQKAAoAAAACLi4uDgAAAC4iLi4iAAAAIEJEJQIAAADgQkUkDgAAAOBEVEQOAAAAIERURAIAAAAgRFVFAgAAACBCVUUCAAAA4CJUJA4AAAAAICIiAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fireball"
+    },
+    "image3": {
+        "data": "hwQLAAoAAAAAAAAA7AAAAAAIAMDOAAAAgIkA7AwAAACYmcjOAAAAAIjI7AwAAAAAAOzOiAAAAAAAyJyJAAAAAACYmYkAAAAAAJiZCAAAAAAAmIgAAAAAAACAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "axe"
+    },
+    "image4": {
+        "data": "hwQKAAkAAAAAAMD8DAAAAADPwGcGAAAAwHcMfwYAAAB/d8d/BgAAAH9yZX8GAAAAfydmdwYAAABcVWZnDAAAAMAn9v8AAAAA8GIMAAAAAAAAzwAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "smallsnake"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAvDwAAAPD/ACIPAAAAwKMA//L//w8/+gDw8iKi/D+jAPA6YyKiP/oA8DNhojzM8w8/MzMTMaL/Dz+TOeEe+v//P5M54R6j//8/MzMTMfr///AzYaI8wqMP8DpjIqI/+gDw8iKi/D+jAP/y//8PP/oAIg8AAADPowAvDwAAAPD/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "demonsprite"
+    },
+    "image6": {
+        "data": "hwQQABAAAADwDwAAAAAAAF/1AAAP8P8AX0X///+PvQ/wRIL6/4/dCAAvgvr7///wAI+oWtXP/I/wmIm734z8/4+ZmbjdzPgAj5mZuN2M/ADwmIm738z4/wCPqFrVz/yPAC+C+vv///DwRIL6/4/dCF9F////j70PX/UAAA/w/wDwDwAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ragnar"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAwPwPAAAAAABMVfUAzMwAwFpMVc80QwxMpBFbTDUzxFxFKrFcNTPDXEUqsVw1M8NcpBFbXFUzw1xaTMVVRTTDTFVVWvVMRMPAVVWlxM9ExQBMVUrPRETEAMD8/1xFRMQAAAAArEVEDAAAAMCl/MwAAAAAXFX0AAAAAADAzA8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cyclopsnake"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
