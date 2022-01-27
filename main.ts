@@ -15,7 +15,7 @@ let demonSprite: Sprite = null
 let ragnar: Sprite = null
 let cyclopsnake: Sprite = null
 scene.setBackgroundColor(6)
-tiles.setTilemap(tilemap`dungeon room of orion`)
+tiles.setTilemap(tilemap`dungeon room of memes and memories`)
 createRagnar()
 createCyclopsnake()
 createDemonsprite()
