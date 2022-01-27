@@ -1,3 +1,6 @@
+namespace SpriteKind {
+    export const loot = SpriteKind.create()
+}
 function createCyclopsnake () {
     cyclopsnake = sprites.create(assets.image`cyclopsnake`, SpriteKind.Enemy)
     cyclopsnake.follow(ragnar, 25)
